@@ -20,7 +20,7 @@ body .container {
 }
 
 body .container header{
-    background: url("img/bg-piu.png") center / cover no-repeat;
+    background: url("/img/bg-piu.png") center / cover no-repeat;
     display: flex;
     flex-direction: column;
     justify-content: space-between;
@@ -39,7 +39,7 @@ body .container header .category{
 }
 
 .logo {
-    background-image: url(logo-sms.png);
+    background-image: url(/img/bg-piu.png);
 }
 
 
